@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./popup.css" />
+    <title>AutoBlock</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>AutoBlockout</h1>
+      <img id="logo" src="../images/logo128.png" width="64" height="64"/>
+      <button id="startBlocking" >Start Blocking</button>
+      <p style="opacity: 0.8">Make sure you are logged in to your social account first<br> Currently support Instagram & TikTok block</p>
+
+      <div style="max-width: 300px;">
+        <p style="font-size: 1.2rem; margin-bottom: 0px;">Block list</p>
+        <p style="margin-bottom:0px; margin-top:5px; opacity: 0.8">Only block the accounts from the selected lists. <br>You can also modify the list.</p>
+      </div>
+      
+      <div class="list-container">
+        <ul id="itemList"></ul>
+      </div>
+
+      <div id="modal" class="modal">
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <input type="text" id="modalListTitle" placeholder="Enter List Title" />
+          <textarea id="modalListContent" placeholder="Enter list of account link separated by new line" rows="4"></textarea>
+          <button id="saveItem">Save</button>
+        </div>
+      </div>
+      <div class="input-container">
+        <button id="addItem" class="add-button">Add new list +</button>
+      </div>
+      
+      
+      <!-- <button  class="button-75" role="button"><span class="text">Start Blocking</span></button> -->
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>

@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Instagram Celeb list",
+        "content": [
+            "https://www.instagram.com/1jnnf/",
+            "https://www.instagram.com/haileybieber",
+            "https://www.instagram.com/justinbieber/",
+            "https://www.instagram.com/kimkardashian",
+            "https://www.instagram.com/sarahkatesilverman",
+            "https://www.instagram.com/gal_gadot/"
+        ],
+        "checked": true
+    },
+    {
+        "title": "Instagram Brand list",
+        "content": [
+            "https://www.instagram.com/balenciaga/",
+            "https://www.instagram.com/cocacola/",
+            "https://www.instagram.com/mcdonalds/",
+            "https://www.instagram.com/puma/",
+            "https://www.instagram.com/dior/",
+            "https://www.instagram.com/diorbeauty/",
+            "https://www.instagram.com/starbucks/"
+        ],
+        "checked": true
+    },
+    {
+        "title": "Tiktok Celeb list",
+        "content": [
+            "https://www.tiktok.com/@818tequila",
+            "https://www.tiktok.com/@haileybieber",
+            "https://www.tiktok.com/@miriamezagui",
+            "https://www.tiktok.com/@noahschnapp",
+            "https://www.tiktok.com/@joshpeck",
+            "https://www.tiktok.com/@beyonce",
+            "https://www.tiktok.com/@galgadot",
+            "https://www.tiktok.com/@justinbieber",
+            "https://www.tiktok.com/@ivankatrump"
+        ],
+        "checked": true
+    },
+    {
+        "title": "Tiktok Brand list",
+        "content": [
+            "https://www.tiktok.com/@puma",
+            "https://www.tiktok.com/@starbucks",
+            "https://www.tiktok.com/@cocacola",
+            "https://www.tiktok.com/@balenciaga"
+            
+        ],
+        "checked": true
+    }
+]

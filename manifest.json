@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "AutoBlockout",
+  "description": "Mass block accounts in TikTok and Instagram",
+  "version": "1.0",
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "permissions": ["activeTab", "tabs", "scripting", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/logo16.png",
+      "48": "images/logo48.png",
+      "128": "images/logo128.png"
+    }
+  },
+  "icons": {
+    "16": "images/logo16.png",
+    "48": "images/logo48.png",
+    "128": "images/logo128.png"
+  }
+}
