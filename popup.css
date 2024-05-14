@@ -12,7 +12,7 @@ body {
     #AA3A38
   );
   color: #fff;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
   font-family: Arial, sans-serif;
 }
 .container {
@@ -197,4 +197,27 @@ textarea {
   color: black;
   text-decoration: none;
   cursor: pointer;
+}
+
+footer {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 10px;
+  background-color: transparent;
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+footer img {
+  margin-right: 8px;
 }
