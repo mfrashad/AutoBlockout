@@ -1,4 +1,4 @@
-# instagram_celebrity_blocker
+# AutoBlockout
 A Chrome extension that automatically blocks celebrities/companies account who have been silent or have expressed support for Israel. This chrome plugin iterates through a [list](https://github.com/mfrashad/AutoBlockout/blob/main/blacklist.json) of Instagram/TikTok accounts and blocks them, one by one.
 
 If you want to help expand the default list please update [blacklist.json](https://github.com/mfrashad/AutoBlockout/blob/main/blacklist.json) and submit a pull request, or submit an issue above. 
@@ -16,9 +16,9 @@ Google Chrome browser installed on your computer.
 
 ## Step 2: Load the Extension into Chrome
 1. Open the Google Chrome browser.
-2. Go to the Extensions page by navigating to chrome://extensions/ or selecting Menu > More Tools > Extensions.
-3. Enable Developer Mode by toggling the switch in the top right corner of the Extensions page.
-4. Click on Load unpacked and select the directory where you unzipped the extension files.
+2. Go to the Extensions page by navigating to **chrome://extensions/** or selecting Menu > More Tools > Extensions.
+3. Enable **Developer Mode** by toggling the switch in the top right corner of the Extensions page.
+4. Click on **Load unpacked** and select the directory where you unzipped the extension files.
 5. The extension should now appear in your list of installed extensions.
 
 ## Step 3: Usage
