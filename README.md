@@ -1,11 +1,34 @@
-# AutoBlockout
-A Chrome extension that automatically blocks celebrities/companies account who have been silent or have expressed support for Israel. This chrome plugin iterates through a [list](https://github.com/mfrashad/AutoBlockout/blob/main/blacklist.json) of Instagram/TikTok accounts and blocks them, one by one.
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+<br />
+<p align="center">
+  <a href="https://autoblockout.rashadlabs.com/">
+    <img src="https://github.com/mfrashad/autoblockout-site/blob/main/images/logo128.png?raw=true" alt="Logo" width="128">
+  </a>
+
+  <h3 align="center">AutoBlockout</h3>
+
+  <p align="center">
+    A Chrome extension that automatically blocks celebrities/companies account in bulk along the #Blockout2024 movement.
+    <br />
+    <a href="https://autoblockout.rashadlabs.com/">View Demo</a>
+    ·
+    <a href="https://github.com/mfrashad/autoblockout/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/mfrashad/autoblockout/issues">Request Feature</a>
+  </p>
+</p>
+
+## AutoBlockout
+This chrome plugin iterates through a [list](https://github.com/mfrashad/AutoBlockout/blob/main/blacklist.json) of Instagram/TikTok accounts and blocks them, one by one. 
+
+However, everyone have different opinion on who to block, so you can easily modify the list in the extension.
 
 If you want to help expand the default list please update [blacklist.json](https://github.com/mfrashad/AutoBlockout/blob/main/blacklist.json) and submit a pull request, or submit an issue above. 
 
-
 ## Installation Instructions
-To install the Instagram Blocker Chrome Extension from GitHub, follow these steps:
+Visit the [website](https://autoblockout.rashadlabs.com/) for video instruction
+
+To install the Autoblockout Chrome Extension from GitHub, follow these steps:
 
 ## Prerequisites
 Google Chrome browser installed on your computer.
@@ -27,7 +50,7 @@ To start blocking users:
 1. Click on the extension icon in the Chrome toolbar.
 2. Select or modify the account list that you want to block
 3. Click "Start Blocking".
-4. Watch as celebrities or companies that don't care about you or Palestinians get blocked.
+4. Watch as as the accounts you selected get blocked one by one.
 
 ## Note: If you want to contribute to the default list provided, make a pull request to update this file [blacklist.json](https://github.com/mfrashad/AutoBlockout/blob/main/blacklist.json) file.
 

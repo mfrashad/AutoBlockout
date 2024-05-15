@@ -1,6 +1,8 @@
 html {
-  height: 100%;
+  max-height: 600px;
   width: 400px;
+  padding: 0px;
+  margin: 0px;
 }
 body {
   display: grid;
@@ -13,7 +15,10 @@ body {
   );
   color: #fff;
   padding-bottom: 50px;
+  height: 100%;
+  max-height: 600px;
   font-family: Arial, sans-serif;
+  background-attachment: fixed;
 }
 .container {
   display: flex;
@@ -55,7 +60,7 @@ button:hover {
 }
 
 .list-container {
-  max-height: 200px;
+  max-height: 180px;
   margin: 15px;
   padding: 0px;
   overflow-y: scroll;
@@ -203,7 +208,7 @@ footer {
   display: flex;
   justify-content: start;
   align-items: center;
-  padding: 10px;
+  margin: 5px;
   background-color: transparent;
   color: #fff;
   position: absolute;

@@ -47,7 +47,7 @@ function loadItems() {
           result.listItems.forEach(item => addItemToDOM(item.title, item.content.join('\n'), item.checked));
       } else {
           // If storage is empty, fetch from blacklist.json
-          const response = await fetch(chrome.runtime.getURL('blacklist.json'));
+          const response = await fetch('https://raw.githubusercontent.com/mfrashad/AutoBlockout/main/blacklist.json');
           const items = await response.json();
           items.forEach(item => addItemToDOM(item.title, item.content.join('\n'), item.checked));
           // Optionally save these items to storage
