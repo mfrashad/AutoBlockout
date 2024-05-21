@@ -1,5 +1,5 @@
 MIT License
-Copyright (c) 2024 - FactsFromCat
+Copyright (c) 2024 @FactsFromCats - https://github.com/FactsFromCats
 Copyright (c) 2024 - AutoBlockout
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
