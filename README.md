@@ -25,7 +25,7 @@ However, everyone have different opinion on who to block, so you can easily modi
 
 If you want to help expand the default list please update [blacklist.json](https://github.com/mfrashad/AutoBlockout/blob/main/blacklist.json) and submit a pull request, or submit an issue above.
 
-Credit to [FactsFromCat](https://github.com/FactsFromCats) for part of the blocking code.
+Credit to [FactsFromCat/tiktok_celebrity_blocker](https://github.com/FactsFromCats/tiktok_celebrity_blocker) and [FactsFromCat/instagram_celebrity_blocker](https://github.com/FactsFromCats/instagram_celebrity_blocker) for the blocking code or as reference.
 
 ## Installation Instructions
 Visit the [website](https://autoblockout.rashadlabs.com/) for video instruction
