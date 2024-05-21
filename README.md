@@ -10,7 +10,7 @@
   <p align="center">
     A Chrome extension that automatically blocks celebrities/companies account in bulk along the #Blockout2024 movement.
     <br />
-    <a href="https://autoblockout.rashadlabs.com/">View Demo</a>
+    <a href="https://autoblockout.com/">View Demo</a>
     ·
     <a href="https://github.com/mfrashad/autoblockout/issues">Report Bug</a>
     ·
@@ -23,7 +23,9 @@ This chrome plugin iterates through a [list](https://github.com/mfrashad/AutoBlo
 
 However, everyone have different opinion on who to block, so you can easily modify the list in the extension.
 
-If you want to help expand the default list please update [blacklist.json](https://github.com/mfrashad/AutoBlockout/blob/main/blacklist.json) and submit a pull request, or submit an issue above. 
+If you want to help expand the default list please update [blacklist.json](https://github.com/mfrashad/AutoBlockout/blob/main/blacklist.json) and submit a pull request, or submit an issue above.
+
+Credit to [FactsFromCat](https://github.com/FactsFromCats) for part of the blocking code.
 
 ## Installation Instructions
 Visit the [website](https://autoblockout.rashadlabs.com/) for video instruction
