@@ -27,6 +27,8 @@ If you want to help expand the default list please update [blacklist.json](https
 
 Credit to [FactsFromCat/tiktok_celebrity_blocker](https://github.com/FactsFromCats/tiktok_celebrity_blocker) and [FactsFromCat/instagram_celebrity_blocker](https://github.com/FactsFromCats/instagram_celebrity_blocker) for part of the blocking code or as reference.
 
+UPDATE: New [FactsFromCat extension](https://github.com/FactsFromCats/FactsFromCats) has added much more feature. Might be more useful to install them instead.
+
 ## Installation Instructions
 Visit the [website](https://autoblockout.rashadlabs.com/) for video instruction
 
